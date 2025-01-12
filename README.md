@@ -13,7 +13,7 @@ This is a simple C program for managing a contact list. The program allows users
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/YourUsername/contact_list.git
+    git clone https://github.com/TechieRS/contact_list.git
     cd contact_list
     ```
 
